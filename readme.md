@@ -1,4 +1,4 @@
-#Files Navigations
+#Files Navigation
 
 CSV - contains the relevant csv files used for the project
 
