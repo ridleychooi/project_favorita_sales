@@ -1,7 +1,7 @@
 Navigation of files
 ---
 
-1. Clean Code - clean copy of the code used for EDA as well as predicting the sales
+1. Clean Code - The code used for this Favorita sales prediction project
 
 2. CSV - contains the relevant csv files used for the project
 
