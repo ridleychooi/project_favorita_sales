@@ -14,4 +14,4 @@ We will be looking into the store sales data from Corporacion Favorita[https://w
 
 The main objective of this project is to help the company to forecast sales between a certain period.
 
-I will conduct EDA of the given dataset, creating visualization from the data as well as applying simple ML solution at the end to predict sales forecast for each catergory of the goods.
+I will conduct EDA, create visualization from the data as well as applying ML models at the end to predict sales forecast for each catergory of the goods.
